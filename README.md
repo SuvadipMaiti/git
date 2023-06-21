@@ -17,7 +17,7 @@ git reset --soft 0680bc3 (undo previous commit and take upto this comit)
 
 
 
-http://<personal-access-token>@github.com/<actual-github-account-name(not email)>/<repo-name>.git
+git clone http://<personal-access-token>@github.com/<actual-github-account-name(not email)>/<repo-name>.git
 
 
 SUVADIP@DESKTOP-MH2O29V MINGW64 ~/Desktop/SMSERVICEONLINE/sm
